@@ -1,7 +1,4 @@
-One of the important aspects of the defect life cycle on a generic level includes defect tracking. This is important
-because test teams open several defects when testing a piece of software which is only multiplied if the particular
-system under test is complex. In such a scenario, managing these defects and analyzing these defects to drive closure
-can be a daunting task.
+One of the important aspects of the defect life cycle on a generic level includes defect tracking.
 
 In line with defect maintenance processes, when any tester files a defect-apart from the method/description to reproduce
 the issue seen, he has to also furnish some categorical information which would aid in accurate classification of the
